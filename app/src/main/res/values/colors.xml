@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="accent">#2ECC71</color>
+    <color name="map_blue">#3498DB</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="available_green">#27AE60</color>
+    <color name="unavailable_red">#E74C3C</color>
+    <color name="card_selected">#FFEDE6</color>
+</resources>

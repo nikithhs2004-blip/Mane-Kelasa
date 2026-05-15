@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_splash.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_item_worker.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/item_worker.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_post_job.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_post_job.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_search.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_worker_dashboard.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_worker_dashboard.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_item_job_request.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/item_job_request.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_login.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_seeker_detail.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_seeker_detail.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/menu_menu_main.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_worker_detail.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_worker_detail.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_map.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_register.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_worker_profile.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_worker_profile.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-debug-52:/layout_activity_seeker_dashboard.xml.flat",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_seeker_dashboard.xml"
+    }
+]

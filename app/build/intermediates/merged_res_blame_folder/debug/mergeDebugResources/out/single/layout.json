@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_worker_dashboard.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_worker_dashboard.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_search.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_worker_profile.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_worker_profile.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_seeker_dashboard.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_seeker_dashboard.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_login.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_splash.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_seeker_detail.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_seeker_detail.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_map.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_worker_detail.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_worker_detail.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_register.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/activity_post_job.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/activity_post_job.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/item_worker.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/item_worker.xml"
+    },
+    {
+        "merged": "com.example.manekelasa.app-mergeDebugResources-51:/layout/item_job_request.xml",
+        "source": "com.example.manekelasa.app-main-54:/layout/item_job_request.xml"
+    }
+]

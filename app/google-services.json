@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374129882164",
+    "project_id": "mane-kelasa-3a611",
+    "storage_bucket": "mane-kelasa-3a611.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374129882164:android:95c62f32cb052a02db0661",
+        "android_client_info": {
+          "package_name": "com.example.manekelasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRBXKK05I3PujphZ6wawINoJ13DD_7m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374129882164:android:a8b50845f671419fdb0661",
+        "android_client_info": {
+          "package_name": "com.manekelsa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRBXKK05I3PujphZ6wawINoJ13DD_7m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

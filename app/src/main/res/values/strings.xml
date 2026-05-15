@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mane Kelsa</string>
+
+    <string-array name="skills_array">
+        <item>Housekeeping</item>
+        <item>Cooking</item>
+        <item>Gardening</item>
+        <item>Plumbing</item>
+        <item>Electrician</item>
+        <item>Carpentry</item>
+        <item>Painting</item>
+        <item>Security / Watchman</item>
+        <item>Driver</item>
+        <item>Babysitting / Caretaking</item>
+        <item>Laundry</item>
+        <item>Cleaning</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="towns_array">
+        <item>All</item>
+        <item>JP Nagar</item>
+        <item>Jayanagar</item>
+        <item>Koramangala</item>
+        <item>BTM Layout</item>
+        <item>HSR Layout</item>
+        <item>Indiranagar</item>
+        <item>Whitefield</item>
+        <item>Electronic City</item>
+        <item>Marathahalli</item>
+        <item>Hebbal</item>
+        <item>Yelahanka</item>
+        <item>Banashankari</item>
+        <item>Rajajinagar</item>
+        <item>Malleshwaram</item>
+        <item>Basavanagudi</item>
+        <item>Bellandur</item>
+        <item>Sarjapur</item>
+        <item>KR Puram</item>
+        <item>Other</item>
+    </string-array>
+</resources>
